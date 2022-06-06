@@ -1,5 +1,6 @@
 body{background-color:skyblue;}
-h3{text-align:center; color:darkred;
+h3{background-color: linen;
+   text-align:center; color:darkred;
    font-size : 60px;}
 div{background-color:linen;
     background-size: 800px 400px;
