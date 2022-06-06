@@ -1,8 +1,8 @@
-body{background-color:skyblue;}
+body{background-color:lightskyblue;}
 h3{background-color: linen;
    text-align:center; color:darkred;
    font-size : 60px;}
-div{background-color:linen;
+div{background-color:blue;
     background-size: 1000px 400px;
     background-image : url("media/나비.jpg");
     background-repeat : no-repeat;
