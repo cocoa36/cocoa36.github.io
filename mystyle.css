@@ -5,3 +5,7 @@ div{background-color:aliceblue;
     background-image : url("media/나비.jpg");
     background-repeat : no-repeat;
     background-position : left center;}
+div{width : 200px;
+    height : 200px;
+    color : blueviolet;
+    font-size: 16px;}
