@@ -3,14 +3,14 @@ h3{background-color: linen;
    font-size : 60px;}
 div{
    background-color: linen;
-    background-size: 800px 400px;
+    background-size: 900px 300px;
     background-image : url("media/나비.jpg");
     background-repeat : no-repeat;
     background-position : center center;
    }
 div{
-   width: 900px;
-    height: 500px;
+   width: 1000px;
+    height: 300px;
     color: red;
     font-size: 40px;
    }
