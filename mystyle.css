@@ -1,5 +1,6 @@
 body{background-color:skyblue; color:blueviolet;}
-h3{text-align:center; color:darkred;}
+h3{text-align:center; color:darkred;
+   font-sizw : 30px;}
 div{background-color:aliceblue;
     background-size: 100px100px;
     background-image : url("media/나비.jpg");
