@@ -1,12 +1,12 @@
 body{background-color:skyblue; color:blueviolet;}
 h3{text-align:center; color:darkred;
-   font-sizw : 30px;}
+   font-sizw : 40px;}
 div{background-color:aliceblue;
-    background-size: 200px200px;
+    background-size: 400px 200px;
     background-image : url("media/나비.jpg");
     background-repeat : no-repeat;
     background-position : left center;}
 div{width : 400px;
     height : 400px;
     color : blueviolet;
-    font-size: 16px;}
+    font-size: 30px;}
