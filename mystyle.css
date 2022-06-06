@@ -7,8 +7,8 @@ div{background-color:linen;
     background-image : url("media/나비.jpg");
     background-repeat : no-repeat;
     background-position : left center;}
-div{width: 900px;
-    height: 300px;
+div{width: 500px;
+    height: 400px;
     color: red;
     font-size: 45px;}
 talbe{width: 300px;
