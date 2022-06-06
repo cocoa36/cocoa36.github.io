@@ -8,9 +8,9 @@ div{background-color:linen;
     background-repeat : no-repeat;
     background-position : left center;}
 div{width: 800px;
-    height: 400px;
+    height: 300px;
     color: red;
     font-size: 40px;}
-div.table{width: 300px;
+table{width: 300px;
     height: 300px;
     font-size: 40px;}
