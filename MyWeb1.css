@@ -35,7 +35,11 @@ header>ul>li:first-child>a{
      border-bottom: 5px solid black;
 }
   header>ul>li>a:hover{border-bottom: 5px solid gray;}
-  section {
+  @media screen and (max-width:600px){
+    header{
+       flex-direction:
+         column;}
+section {
     padding: 0 3rem;
     text-align: center;}
   section>p{margin-bottom:2rem;}
