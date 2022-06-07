@@ -19,7 +19,7 @@ header{display: flex;
       align-items: center;
       padding: 1.2rem 0;
 }
-header>p { font-size: 1.5rem;
+header>p {font-size: 1.5rem;
   font-size: 700;}
 header>ul {
   display: flex;}
@@ -27,7 +27,7 @@ header>ul>li{
             list-style-type: none;
   margin-left: 1.5rem;}
 header>ul>li>a { 
-            tect-decoration: none;
+            text-decoration: none;
             font-size: 1.2rem;
   font-weight: 800;
   padding-bottom: 5px
@@ -45,7 +45,7 @@ header>ul>li:first-child>a{
   section>p:last-of-type{
     font-size:1.3rem;
     font-weight: 500;}
-  section>a { display : block; 
+  section>a {display : block; 
     border: 1px solid black;
     width: 150px;
     font-size: 1.3rem;
