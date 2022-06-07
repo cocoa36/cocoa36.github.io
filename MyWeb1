@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	 <div class="container">
+		 <header>
+			 <p>3학년 6반 교실</p>
+			 <ul>
+				 <li><a href="#">Home</a></li>
+				 <li><a href="#">과학</a></li>
+				 <li><a href="#">사회>/a></li>
+			 </ul>
+		 </header>
+		 <section>
+			 <p> 안녕하세요! 3학년 6반 교실입니다.</p>
+			 <a href="#"> 학습하기</a>
+		 </section> 
+     </div>
+     	<script>
+	let current = new Date(); // 현재 시간 값을 가진 Date 객체 생성
+	if(current.getSeconds() % 2 == 0)
+		document.body.style.backgroundColor = "olivedrab";
+	else
+		document.body.style.backgroundColor = "lightskyblue";
+	document.write("현재 시간 : ");
+	document.write(current.getHours(), "시,");
+	document.write(current.getMinutes(), "분,");
+	document.write(current.getSeconds(), "초<br>");
+			 </script>
+       </body>
+       </html>
