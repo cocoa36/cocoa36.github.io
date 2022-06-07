@@ -1,5 +1,5 @@
 *{
-  padding: 0'
+  padding: 0;
     margin: 0;}
 body{background-color: #333;
   color: white;}
@@ -42,12 +42,12 @@ header>ul>li:first-child>a{
 section {
     padding: 0 3rem;
     text-align: center;}
-  section>p{margin-bottom:2rem;}
+  section>p{margin-bottom:1rem;}
   section>p: first-child {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;}
   section>p:last-of-type{
-    font-size:1.3rem;
+    font-size: 1.3rem;
     font-weight: 500;}
   section>a{
     display : block; 
